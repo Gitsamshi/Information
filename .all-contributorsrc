@@ -1,0 +1,75 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "steven-hh-ding",
+      "name": "Steven Ding",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8474647?v=4",
+      "profile": "https://l1nna.com/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "WeihanO",
+      "name": "WeihanO",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/60517240?v=4",
+      "profile": "https://github.com/WeihanO",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "lxdragoon",
+      "name": "Li Tao Li",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31936233?v=4",
+      "profile": "https://github.com/lxdragoon",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "Gitsamshi",
+      "name": "Gitsamshi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19702190?v=4",
+      "profile": "https://github.com/Gitsamshi",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "SalehChoueib",
+      "name": "Sal Choueib",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33268561?v=4",
+      "profile": "https://github.com/SalehChoueib",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "strixy16",
+      "name": "strixy16",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25542096?v=4",
+      "profile": "https://github.com/strixy16",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Information",
+  "projectOwner": "CISC-873",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

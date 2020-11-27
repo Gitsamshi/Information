@@ -1,5 +1,4 @@
 <h1 align="center"> :fire: CISC873 Data Mining :fire: </h1>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29045168/92747167-ef3eeb00-f351-11ea-9105-3122d15c48e7.png" height="350px" alt="" />
 </p>
@@ -14,6 +13,7 @@
 <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen">
 </p>
 
+<p align="center">Originally created by <a href="https://research.cs.queensu.ca/home/skill/index.html">Prof. David Skillicorn</a> in 2000</p>
 <p align="center">Instructor: Dr. Steven Ding</p>
 <p align="center">Friday 10:00-11:15 11:45-13:00 EST Miner Party - Live Streaming [Zoom link on  <a href="https://onq.queensu.ca/">Onq</a>]</p>
 <p align="center">✨ [JOIN our discord channel <a href="https://discord.gg/8dTmW8H">HERE</a>]✨ </p>
@@ -68,11 +68,9 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | [Assignment #0](https://www.kaggle.com/t/30be82c6b5a54b7383f27394947445f6)           | 10-07| Project Proposal                |10-02|
 | [Assignment #1](https://www.kaggle.com/t/4dcf0f26ef4f4076a528fd8a2412856b)           | 10-17| Phase 1 source code and results |10-23|
 | [Assignment #2](https://www.kaggle.com/t/7c1bf60bb0934914a8beb982ddfdb06a)           | 11-06 | Phase 2 source code and results |11-13|
-| Assignment #3           | | Phase 3 source code and results |11-27|
-| Assignment #4           |  | Final report                    |12-18|
+| [Assignment #3](https://www.kaggle.com/t/657c1d4a8ad74540b7f316192efb4646)           | 11-15 | Phase 3 source code and results |11-27|
+| [Assignment #4](https://www.kaggle.com/t/bc7459ecdc0544b18f9827df1393e81a)           |  on Kaggle | Final report                    |12-18|
 | Assignment #5           |  |                                 |     |
-| Assignment #6           |  |                                 |     |
-| Assignment #7           |  |                                 |     |
 
 <h2 align="center"> Course Materials. :books: </h2> 
 
@@ -84,6 +82,9 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | Week #1 Introduction   | [Slides](W1%20Introduction.pdf)   | [L1-1](https://stream.queensu.ca/Watch/i7M9CcJo) [L1-2](https://stream.queensu.ca/Watch/Hn29Sgb3) |
 | Week #2 Regression     | [Slides](W2%20Regression.pdf)     | [L2-1](https://stream.queensu.ca/Watch/z5DAw8t4) [L2-2](https://stream.queensu.ca/Watch/Gp49Mdi8) |
 | Week #3 Classification | [Slides](W3%20Classification.pdf) | TBA               |
+| TBA | TAB  | TBA |
+| Week #9 | [Slides](W6-8%20Conv%20and%20Sequential.pdf)  | [L9](https://stream.queensu.ca/Watch/y2B6LfEj) |
+| Week #10 | [Slides](W9%20Sequential%20plus.pdf) | [L1-](https://stream.queensu.ca/Watch/g2A6Kmx3) |
 
 
 ### How to Learn Data Mining
@@ -92,3 +93,32 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 <img src="https://user-images.githubusercontent.com/10928452/92982760-b98f2480-f46d-11ea-83d1-a64e217431a4.jpg"></>
 <p>credits: AmirHossein Sojoodi @amirsojoodi</p>
 </p>
+
+## Contributors ✨
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://l1nna.com/"><img src="https://avatars3.githubusercontent.com/u/8474647?v=4" width="100px;" alt=""/><br /><sub><b>Steven Ding</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=steven-hh-ding" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=steven-hh-ding" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/WeihanO"><img src="https://avatars1.githubusercontent.com/u/60517240?v=4" width="100px;" alt=""/><br /><sub><b>WeihanO</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=WeihanO" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=WeihanO" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/lxdragoon"><img src="https://avatars3.githubusercontent.com/u/31936233?v=4" width="100px;" alt=""/><br /><sub><b>Li Tao Li</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=lxdragoon" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=lxdragoon" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Gitsamshi"><img src="https://avatars2.githubusercontent.com/u/19702190?v=4" width="100px;" alt=""/><br /><sub><b>Gitsamshi</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=Gitsamshi" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=Gitsamshi" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/SalehChoueib"><img src="https://avatars1.githubusercontent.com/u/33268561?v=4" width="100px;" alt=""/><br /><sub><b>Sal Choueib</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=SalehChoueib" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=SalehChoueib" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/strixy16"><img src="https://avatars0.githubusercontent.com/u/25542096?v=4" width="100px;" alt=""/><br /><sub><b>strixy16</b></sub></a><br /><a href="https://github.com/CISC-873/Information/commits?author=strixy16" title="Code">💻</a> <a href="https://github.com/CISC-873/Information/commits?author=strixy16" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
